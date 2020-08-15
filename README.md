@@ -1,7 +1,7 @@
 # CLNet-tracking
 Implementation code for
 
-CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers. In Proceedings of the European Conference on Computer Vision (ECCV), 2020.
+[CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers](https://www.researchgate.net/publication/343601521_CLNet_A_Compact_Latent_Network_for_Fast_Adjusting_Siamese_Trackers). In Proceedings of the European Conference on Computer Vision (ECCV), 2020.
 
 By Xingping Dong, Jianbing Shen, Ling Shao, Fatih Porikli.
 
