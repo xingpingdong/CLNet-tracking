@@ -111,5 +111,4 @@ venv.bak/
 
 testing_dataset/
 training_dataset/
-experiments/
 pretrained_models/
