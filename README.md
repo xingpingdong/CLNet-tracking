@@ -19,6 +19,7 @@ If you use this software for academic research, please consider to cite the foll
   title={CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers},
   author={Dong, Xingping and Shen, Jianbing and Shao, Ling and Porikli, Fatih},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={378--395},
   year={2020}
 }
 @article{dong2019dynamical,
