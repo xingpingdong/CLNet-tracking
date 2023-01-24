@@ -1,4 +1,8 @@
 # CLNet-tracking
+## News
+Our extension version (Adaptive Siamese Tracking with a Compact Latent Network) is accepted to T-PAMI. 
+We obtain the [raw results](https://drive.google.com/file/d/1pGxt2LM_bNHM8X2cDBtdwYcFlpD2emgO/view?usp=sharing) for comparison with other methods.
+
 Implementation code for
 
 [CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers](https://www.researchgate.net/publication/343601521_CLNet_A_Compact_Latent_Network_for_Fast_Adjusting_Siamese_Trackers). In Proceedings of the European Conference on Computer Vision (ECCV), 2020.
@@ -15,6 +19,13 @@ If you use this software for academic research, please consider to cite the foll
 
 
 ```
+@article{dong2022adaptive,
+  title={Adaptive Siamese Tracking with a Compact Latent Network},
+  author={Dong, Xingping and Shen, Jianbing and Porikli, Fatih and Luo, Jiebo and Shao, Ling},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2022},
+  publisher={IEEE}
+}
 @inproceedings{dong2020clnet,
   title={CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers},
   author={Dong, Xingping and Shen, Jianbing and Shao, Ling and Porikli, Fatih},
