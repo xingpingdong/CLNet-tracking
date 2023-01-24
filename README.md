@@ -3,6 +3,7 @@
 Our extension version (Adaptive Siamese Tracking with a Compact Latent Network) is accepted to T-PAMI. 
 We obtain the [raw results](https://drive.google.com/file/d/1pGxt2LM_bNHM8X2cDBtdwYcFlpD2emgO/view?usp=sharing) for comparison with other methods.
 
+## Content
 Implementation code for
 
 [CLNet: A Compact Latent Network for Fast Adjusting Siamese Trackers](https://www.researchgate.net/publication/343601521_CLNet_A_Compact_Latent_Network_for_Fast_Adjusting_Siamese_Trackers). In Proceedings of the European Conference on Computer Vision (ECCV), 2020.
